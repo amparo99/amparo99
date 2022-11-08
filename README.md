@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to broaden my horizons by sharing ideas and code with people as passionate for data science as myself.
 
-- 📫 You can reach me by sending me a mail to _amparoalias2205@gmail.com_
+- 📫 Have a look at my LinkedIn and reach me there! -->  _https://www.linkedin.com/in/amparoaliascuesta/_
 
 <!---
 amparo99/amparo99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
