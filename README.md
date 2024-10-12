@@ -1,4 +1,4 @@
-- 👋 Hi, I am Amparo Alías, a 23 years old Mathematical Engineer with 3 years of experience. 
+- 👋 Hi, I am Amparo Alías, a 25 years old Mathematical Engineer with 3 years of experience. 
 
 - 👀 I am interested in Machine Learning, Deep Learning, NLP models and data analytics. In this Github you will find part of the work I do during my free time to learn more about this world. 
 
